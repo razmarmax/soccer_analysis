@@ -1,2 +1,2 @@
-# soccer_analysys
+# soccer_analysis
 Analyzing soccer games
